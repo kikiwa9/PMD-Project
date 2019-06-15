@@ -12,9 +12,10 @@ _PMD 제품 사용 메뉴얼_
  
  등의 기능을 가지고 있다. 
 
-## 2.제작과정 [[go →]](제작과정/README.md) ##
-## 3.사용방법 [[go →]](사용방법/README.md) ##
-## 4.주의사항 [[go →]](주의사항/README.md) ##
+## 2. 제작과정 [[go →]](제작과정/README.md) ##
+## 3. 각 부의 설명 [[go →]](각 부의 설명/README.md) ##
+## 4. 사용방법 [[go →]](사용방법/README.md) ##
+## 5. 주의사항 [[go →]](주의사항/README.md) ##
 
 ### Needs & Ideas DB [[go →]](ideas.md)
 ### ICT Equipment & Devices [[go →]](devices.md)
