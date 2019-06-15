@@ -14,9 +14,9 @@ _PMD 제품 사용 메뉴얼_
  ***
 
 ## 2. 제작과정 [[go →]](제작과정) ##
-## 3. 각 부의 설명 [[go →]] (PMD-Project/각 부의 설명) ##
+## 3. 각 부의 설명 [[go →]](각 부의 설명) ##
 ## 4. 사용방법 [[go →]](사용방법) ##
-## 5. 주의사항 [[go →]](PMD-Project/주의사항) ##
+## 5. 주의사항 [[go →]](주의사항) ##
 
 ### Needs & Ideas DB [[go →]](ideas.md)
 ### ICT Equipment & Devices [[go →]](devices.md)
