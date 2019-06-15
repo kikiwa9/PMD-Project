@@ -1,5 +1,6 @@
 ### Portable Micro-dust Device(PMD) Project - 휴대용 미세먼지 측정기
 
+### PMD 제품 사용 메뉴얼
 ### 1. 제품 설명
 
  본 제품은 기존에 존재하는 미세먼지 측정기기에서 더 나아가 사용자가 있는 정확한 장소에서의
@@ -11,11 +12,9 @@
  
  등의 기능을 가지고 있다. 
 
-### 제작과정 [[go →]](제작과정/README.md)
-### 사용방법 [[go →]](사용방법/README.md)
-### 주의사항 [[go →]](주의사항/README.md)
-- [HCI 2018S](HCI2018S/README.md)
-- HCI 2019S
+### 2.제작과정 [[go →]](제작과정/README.md)
+### 3.사용방법 [[go →]](사용방법/README.md)
+### 4.주의사항 [[go →]](주의사항/README.md)
 
 ### Needs & Ideas DB [[go →]](ideas.md)
 ### ICT Equipment & Devices [[go →]](devices.md)
