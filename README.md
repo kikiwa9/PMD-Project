@@ -18,17 +18,4 @@
 ### 3. 사용방법 [[go →]](사용방법.md) ###
 ***
 ### 4. 주의사항 [[go →]](주의사항.md) ###
-
-### Needs & Ideas DB [[go →]](ideas.md)
-### ICT Equipment & Devices [[go →]](devices.md)
-
-
-### TO-DO
-- add documents and instructions
-- add more student projects
-
-### Contact info.
-- W.LEE (at) HANDONG (dot) EDU
-- Website: [https://sites.google.com/view/wonsuplee](https://sites.google.com/view/wonsuplee)
-- LinkedIn: [https://www.linkedin.com/in/wonsuplee](https://www.linkedin.com/in/wonsuplee)
-- Facebook Page: [https://www.facebook.com/HandongHCI](https://www.facebook.com/HandongHCI)
+---
